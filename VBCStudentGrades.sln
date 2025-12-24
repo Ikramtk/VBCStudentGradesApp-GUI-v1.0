@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VBCStudentgrad", "VBCStudentgrad\VBCStudentgrad.vdproj", "{0667F047-0C3C-47D3-8330-8C7EF759A5DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SD1_GUI_v1", "..\SD1_GUI_v1\SD1_GUI_v1\SD1_GUI_v1.csproj", "{4948A975-A96A-4E01-9E5B-B11AA1D35218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0667F047-0C3C-47D3-8330-8C7EF759A5DB}.Debug|Any CPU.ActiveCfg = Debug
+		{0667F047-0C3C-47D3-8330-8C7EF759A5DB}.Debug|Any CPU.Build.0 = Debug
+		{0667F047-0C3C-47D3-8330-8C7EF759A5DB}.Release|Any CPU.ActiveCfg = Release
+		{0667F047-0C3C-47D3-8330-8C7EF759A5DB}.Release|Any CPU.Build.0 = Release
+		{4948A975-A96A-4E01-9E5B-B11AA1D35218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4948A975-A96A-4E01-9E5B-B11AA1D35218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4948A975-A96A-4E01-9E5B-B11AA1D35218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4948A975-A96A-4E01-9E5B-B11AA1D35218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {462588ED-F5D5-43DD-A3CD-8F634D8EA6D0}
+	EndGlobalSection
+EndGlobal
