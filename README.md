@@ -1,15 +1,15 @@
 # VBC Student Grades App – GUI (v1.0)
 
-Project Description
+## Project Description
 
-VBC Student Grades App – GUI is a Windows Forms application developed as an enhancement of the SD1 project.
+*VBC Student Grades App – GUI* is a Windows Forms application developed as an enhancement of the SD1 project.
 The application provides a graphical user interface for entering, calculating, displaying, saving, and loading student grades data.
 
 This version represents SD1 GUI version 1.0 and includes a Windows installer for deployment on Windows operating systems.
 
 ⸻
 
-Project Objectives
+## Project Objectives
 	•	Enhance the SD1 console application with a graphical user interface
 	•	Implement file operations (Open and Save)
 	•	Provide clear data visualization using TextBox and ListBox controls
@@ -19,7 +19,7 @@ Project Objectives
 
 ⸻
 
-Application Features
+## Application Features
 	•	Add student name, grades, and exam grade
 	•	Calculate final result using Average or Median
 	•	Display students and results in a ListBox
@@ -33,7 +33,7 @@ Application Features
 
 ⸻
 
-Technologies Used
+## Technologies Used
 	•	C#
 	•	.NET Framework
 	•	Windows Forms
@@ -42,17 +42,17 @@ Technologies Used
 
 ⸻
 
-Installation
+## Installation
 	1.	Download the installer files from the Releases section:
 	•	setup.exe
-	•	SD1_GUI_v1_Setup.msi
+	•	VBCStudentGrades.msi
 	2.	Run setup.exe
 	3.	Follow the installation steps
 	4.	The application will be installed in:
-C:\Program Files (x86)\VVK\Ikram_Outaik\
+C:\Program Files (x86)\VVK\Ikram.Outaik\
 
 ⸻
 
-Author
+## Author
 	•	Name: Ikram Outaik
 	•	Organization: VVK
